@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Krupaksh 👋
 
-<!--
-**Krupaksh/Krupaksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Engineering Student (3rd Year)  
+🔐 Aspiring Cybersecurity & Red Teaming Professional  
+🐍 Learning Python & Penetration Testing  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Working On
+- Hack The Box – Penetration Tester Path
+- Python scripting practice
+- Networking fundamentals
+
+---
+
+## 🛠 Skills
+- Python (Beginner)
+- Basic Networking
+- Linux Fundamentals
+
+---
+
+## 📌 Goals for 2026
+- Land a cybersecurity internship
+- Build strong penetration testing fundamentals
+- Contribute to open-source security tools
