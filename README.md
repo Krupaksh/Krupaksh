@@ -1,27 +1,34 @@
-# Hi, I'm Krupaksh 👋
+# Krupaksh Kenkre
 
-🎓 IT Engineering Student (3rd Year)  
-🔐 Aspiring Cybersecurity & Red Teaming Professional  
-🐍 Learning Python & Penetration Testing  
-📍 India  
+IT Engineering Student with a focused interest in cybersecurity and offensive security practices.
 
----
-
-## 🚀 Currently Working On
-- Hack The Box – Penetration Tester Path
-- Python scripting practice
+Currently building strong foundations in:
+- Python scripting
 - Networking fundamentals
+- Linux systems
+- Security-oriented problem solving
+
+My long-term objective is to develop into a skilled penetration tester with a deep understanding of systems, networks, and attack surfaces.
 
 ---
 
-## 🛠 Skills
-- Python (Beginner)
-- Basic Networking
-- Linux Fundamentals
+## Technical Focus
+
+- Security-focused Python development
+- Network concepts and protocol behavior
+- Linux command-line proficiency
+- Structured documentation of technical learning
 
 ---
 
-## 📌 Goals for 2026
-- Land a cybersecurity internship
-- Build strong penetration testing fundamentals
-- Contribute to open-source security tools
+## Current Direction
+
+Consistently working on improving practical understanding of:
+- System enumeration
+- Privilege boundaries
+- Attack surface analysis
+- Secure coding awareness
+
+---
+
+I value clarity, discipline, and continuous technical growth.
